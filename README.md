@@ -1,4 +1,4 @@
-# Project: Recipes
+# Odin Recipes
 
 ## Project Introduction
 
