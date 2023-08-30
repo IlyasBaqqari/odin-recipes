@@ -16,6 +16,11 @@ h2, h3 {
 
 h1 {
   font-size: 40px;
+  background-color: gainsboro;
+  padding: 8px;
+  margin: 30px -30px;
+  margin-top: -20px;
+  padding-left: 20px;
 }
 
 h2 {
@@ -31,6 +36,15 @@ h3 {
 
 p {
   text-align: justify;
+}
+
+ul, ol {
+  border-top: solid gainsboro 5px;
+  border-radius: 3px;
+  background-color: #ededed;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  padding-right: 20px;
 }
 
 li {
