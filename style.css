@@ -20,7 +20,7 @@ h1 {
   padding: 8px;
   margin: 30px -30px;
   margin-top: -20px;
-  padding-left: 20px;
+  padding-left: 35px;
 }
 
 h2 {
@@ -39,7 +39,7 @@ p {
 }
 
 ul, ol {
-  border-top: solid gainsboro 5px;
+  border-top: solid gainsboro 6px;
   border-radius: 3px;
   background-color: #ededed;
   padding-top: 10px;
@@ -61,9 +61,17 @@ li {
 }
 
 .recipe-image {
+  display: block;
+  margin: 0 auto;
   width: 700px;
   height: auto;
   border-radius: 3px;
+}
+
+.description {
+  background-color: #ededed;
+  padding: 1px 30px;
+  margin: 10px -30px;
 }
 
 .steps li {
